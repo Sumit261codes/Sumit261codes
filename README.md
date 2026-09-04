@@ -60,3 +60,28 @@ and cloud computing, and I solve problems for fun.
 
 <p align="center">⭐ Feel free to explore my repositories and follow my coding journey!</p>
 <p align="center"><i>Learning. Building. Improving. Repeating.</i></p>
+name: 3D Profile Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Sumit261codes
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generate 3d contribution graph" || echo "no changes"
+          git push origin output
