@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./sumit-pixel-profile.gif" width="250" alt="Sumit Shukla">
+<img src="./sumit-pixel-profile.png" width="300" alt="Sumit Pixel Profile">
 
 <h1>👋 Hi, I'm Sumit Shukla</h1>
 
