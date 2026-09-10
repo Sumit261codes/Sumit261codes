@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./sumit-profile.gif" width="200" alt="Sumit Shukla">
+<img src="./sumit-pixel-profile.gif" width="250" alt="Sumit Shukla">
 
 <h1>👋 Hi, I'm Sumit Shukla</h1>
 
 <h3>💻 Backend Developer | Java | Spring Boot | Node.js | C++ DSA</h3>
 
-<p>
+</div>
 B.Tech Computer Science Engineering Student
 <br>
 Galgotias University
