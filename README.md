@@ -1,101 +1,98 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sumit Shukla</h1>
+<img src="profile-pic.jpg" width="160" height="160" style="border-radius:50%" alt="Sumit Shukla"/>
 
-<h3 align="center">
-🚀 B.Tech CSE Student | 💻 Aspiring Software Developer | ☁️ Cloud Computing Enthusiast
-</h3>
+# 👋 Hi, I'm Sumit Shukla
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;CSE+Student+%7C+DSA+Enthusiast;Learning+Cloud+Computing+%26+Development;Building%2C+Learning+and+Growing+Every+Day+%F0%9F%9A%80" />
+### 💻 Backend Developer | Java & Spring Boot | Node.js | C++ DSA
+
+B.Tech Computer Science Engineering student at **Galgotias University**  
+Building backend projects, solving DSA problems, and learning every day.
+
+<p>
+  <a href="https://github.com/Sumit261codes">
+    <img src="https://img.shields.io/github/followers/Sumit261codes?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Sumit261codes?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🎓 I'm a **B.Tech Computer Science Engineering Student** at **Galgotias University**
-* 🌱 Currently learning **Data Structures & Algorithms**
-* ☁️ Exploring **Cloud Computing and Cloud Technologies**
-* 💻 Learning **Software Development and Backend Development**
-* 🚀 Working on improving my problem-solving and programming skills
-* 📚 Currently strengthening my knowledge in **C++, Java, Python and SQL**
-* 🎯 Goal: To become a skilled **Software Developer**
-* ⚡ Fun fact: I believe consistency beats motivation!
+- 🎓 B.Tech CSE student at **Galgotias University**
+- 💻 Focused on **Backend Development**
+- ☕ Working with **Java, Spring Boot and Servlets**
+- 🟢 Exploring **Node.js and MERN**
+- 🧠 Practicing **Data Structures & Algorithms in C++**
+- 🔨 Building projects to strengthen my development skills
+- 🎯 Goal: become a strong software developer and get placed in a good tech company
+- 🔥 Currently doing a **100 Days LeetCode Challenge**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+<img src="https://skillicons.dev/icons?i=cpp,java,c,python,javascript" />
 </p>
 
-### 🌐 Development & Databases
+### ⚙️ Backend & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,html,css" />
 </p>
 
-### ☁️ Cloud & Tools
+### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,linux" />
+</p>
+
+### 📚 Core Computer Science
+
+`DSA` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `SDLC`
+
+---
+
+## 🔥 100 Days LeetCode Challenge
+
+I'm solving one LeetCode problem every day to improve my problem-solving and DSA skills.
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-100%20Days%20Challenge-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured Projects
 
-```text
-💻 Data Structures & Algorithms
-☁️ Cloud Computing
-🌐 Backend Development
-🗄️ Database Management Systems
-🔧 Git & GitHub
-```
-
----
-
-## 🚀 My Coding Journey
-
-```text
-Start
-  │
-  ▼
-Learning Programming 💻
-  │
-  ▼
-Data Structures & Algorithms 🧠
-  │
-  ├────► Competitive Programming
-  │
-  ├────► Software Development
-  │
-  └────► Cloud Computing ☁️
-             │
-             ▼
-       Future Software Engineer 🚀
-```
+| Project | Description | Tech |
+|---|---|---|
+| 💬 **Chat Application** | Real-time style chat application project | Java |
+| 💰 **Expense Tracker** | Servlet-based expense management web application | Java, JSP, JDBC, MySQL |
+| 🧠 **100 Days DSA Challenge** | Daily DSA and LeetCode solutions | C++ |
+| 🌐 **Portfolio** | Personal developer portfolio website | HTML, CSS |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit261codes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit261codes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit261codes&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit261codes&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit261codes&layout=compact&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sumit261codes&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,33 +100,31 @@ Data Structures & Algorithms 🧠
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Sumit261codes/Sumit261codes/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/Sumit261codes/Sumit261codes/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-
-<a href="https://github.com/Sumit261codes">
-<img src="https://img.shields.io/badge/GitHub-Sumit261codes-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add your LinkedIn profile here later -->
-
+<p align="center">
+  <a href="https://github.com/Sumit261codes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ **Feel free to explore my repositories and follow my coding journey!**
+### 💡 Learning. Building. Improving. 🚀
 
-<br/>
+⭐ Thanks for visiting my profile!
 
-🚀 *Learning. Building. Improving. Repeating.*
-
-</p>
+</div>
