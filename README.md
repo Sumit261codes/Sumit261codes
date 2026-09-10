@@ -113,6 +113,7 @@ I'm solving **one LeetCode problem every day** to improve my DSA and problem-sol
 </a>
 
 </p>
+<img src="./pixels-neon.gif" width="700" alt="Sumit Pixel Profile">
 
 ### 🧠 What I'm Practicing
 
