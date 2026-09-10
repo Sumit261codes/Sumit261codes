@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="profile-pic.jpg" width="160" height="160" style="border-radius:50%" alt="Sumit Shukla"/>
+<img src="./profile-pic.jpg" width="160" alt="Sumit Shukla">
 
-# 👋 Hi, I'm Sumit Shukla
+<h1>👋 Hi, I'm Sumit Shukla</h1>
 
-### 💻 Backend Developer | Java & Spring Boot | Node.js | C++ DSA
+<h3>💻 Backend Developer | Java & Spring Boot | Node.js | C++ DSA</h3>
 
-B.Tech Computer Science Engineering student at **Galgotias University**  
-Building backend projects, solving DSA problems, and learning every day.
+</div>
 
 <p>
   <a href="https://github.com/Sumit261codes">
