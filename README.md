@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://github.com/Sumit261codes.png" width="160" height="160" alt="Sumit Shukla">
+<img src="./sumit-profile.gif" width="200" alt="Sumit Shukla">
 
 <h1>👋 Hi, I'm Sumit Shukla</h1>
 
 <h3>💻 Backend Developer | Java | Spring Boot | Node.js | C++ DSA</h3>
 
 <p>
-  B.Tech Computer Science Engineering Student
-  <br>
-  Galgotias University
+B.Tech Computer Science Engineering Student
+<br>
+Galgotias University
+</p>
+
+</div>
 </p>
 
 <p>
