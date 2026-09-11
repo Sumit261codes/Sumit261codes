@@ -9,7 +9,6 @@
 </div>
 B.Tech Computer Science Engineering Student
 <br>
-Galgotias University
 </p>
 
 </div>
