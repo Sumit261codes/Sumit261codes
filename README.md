@@ -4,7 +4,7 @@
 
 <h1>👋 Hi, I'm Sumit Shukla</h1>
 
-<h3>💻 Backend Developer | Java | Spring Boot | Node.js | C++ DSA</h3>
+<h3>💻 FULL STACK DEVOLOPER | C++ | DSA | JAVA | MYSQL | JDBC | </h3>
 
 </div>
 B.Tech Computer Science Engineering Student
